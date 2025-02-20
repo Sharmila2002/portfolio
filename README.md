@@ -1,0 +1,1 @@
+I have created my portfolio but this is not responsive portfolio , I have created this just for implement the technologies HTML , CSS and JS. Now, I am trying to update this portfolio and add some new functinality like responsivenes and so on
